@@ -1,0 +1,35 @@
+/* Color Palette: https://colorhunt.co/palette/163855 */
+
+img {
+	border-radius: 8px;
+}
+
+.card {
+  font-size: 26px;
+}
+
+.front {
+	text-align: center;
+	color: black;
+	background-color: #e3f6f5;
+	border-radius: 10px;
+	padding: 10px;
+ 	border-style: solid;
+ 	border-width: medium;
+ 	border-color: white;
+}
+
+.back {
+}
+
+.backContainer{
+	text-align: left;
+}
+
+.imageContainer {
+	text-align: center;
+}
+
+.audioContainer {
+	text-align: center;
+}
