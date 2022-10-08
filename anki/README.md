@@ -33,6 +33,8 @@ The fields I use are:
 
 ---
 
+## Overall
+
 Vocab and sentence cards. Must include specifications as described below.
 
 - Vocab/word cards - can include optional media and examples on back `[Front, Back]`.
