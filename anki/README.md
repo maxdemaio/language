@@ -167,7 +167,7 @@ Language decks can be bilingual, monolingual, or both. Personally, I keep all ob
 
 ---
 
-****[Sentence Cards vs Vocab Cards: In-Depth Comparison](https://www.youtube.com/watch?v=GLfmKWhLhjk) Summary**
+**[Sentence Cards vs Vocab Cards: In-Depth Comparison](https://www.youtube.com/watch?v=GLfmKWhLhjk) Summary**
 
 You can either have production or comprehension cards. Production cards try to get you to produce your target language in some way. Comprehension cards present you with the target language and you just have to understand its meaning.
 
