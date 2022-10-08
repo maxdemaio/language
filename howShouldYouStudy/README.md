@@ -16,4 +16,4 @@
 
 ---
 
-For me, I really enjoy Duolingo, YouTube videos, and miscellaneous content. It’s also fun to get involved in certain communities you like in your target language. This could be through apps like Slack, Discord, Twitter, and more.
+For me, I really enjoy Duolingo, spaced repetition, YouTube videos, and miscellaneous content. It’s also fun to get involved in certain communities you like in your target language. This could be through apps like Slack, Discord, Twitter, and more.
