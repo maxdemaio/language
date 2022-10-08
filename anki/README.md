@@ -225,3 +225,11 @@ There are words that have a one-to-many relationship with meaning (polysemous). 
 The word “bark” as a noun could mean the sound a dog makes or the outer layer of a tree. You could make two vocab cards for this but then there would be no way to tell which is which. The other option is to have a single vocab card with multiple meanings for that part of speech. But, this makes things stressful and not effective. The better option is to make multiple sentence cards.
 
 The hybrid solution is an Anki card with a conditional word field. What the heck is this? Well this is a chimera that allows you to switch the cards type at any point in its life. If the word field is filled out, it turns into a word card. If the word field is empty it is a sentence card. The logic is like this:
+
+```
+if (sentenceFieldFilled) {
+	displayAsSentenceCard()
+} else {
+	displayAsVocabCard()
+}
+```
